@@ -1,0 +1,71 @@
+{
+    "globalStyle": {
+        "navigationBarTitleText": "睿途资源化智慧管理应用",
+        "backgroundColor": "#FFFFFF"
+    },
+	"pages": [
+        {
+            "path": "pages/login/index",
+            "style": {
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/waybill/index",
+            "style": {
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/waybill-launch/index",
+            "style": {
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/waybill-confirm/index",
+            "style": {
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/waybill-detail/index",
+            "style": {
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/i/index",
+            "style": {
+                "navigationStyle": "custom"
+            }
+        }
+    ],
+    "tabBar": {
+        "color": "#7A7E83",
+        "selectedColor": "#3CC51F",
+        "borderStyle": "black",
+        "backgroundColor": "#FFFFFF",
+        "list": [
+            {
+                "text": "电子联单",
+                "pagePath": "pages/waybill/index",
+                "iconPath": "static/image/tab__waybill.png",
+                "selectedIconPath": "static/image/tab__waybill__selected.png"
+            },
+            {
+                "text": "我",
+                "pagePath": "pages/i/index",
+                "iconPath": "static/image/tab__i.png",
+                "selectedIconPath": "static/image/tab__i__selected.png"
+            }
+        ]
+    },
+    "easycom": {
+        "autoscan": true,
+        "custom": {
+            "uni-(.*)": "@/components/uni-$1/uni-$1.vue",
+            "cl-(.*)": "@/cool/ui/components/$1/$1.vue"
+        }
+    }
+}

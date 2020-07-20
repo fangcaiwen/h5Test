@@ -1,0 +1,65 @@
+{
+  "id": "1941810",
+  "name": "CRM-App Icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "\@",
+  "description": "Construction-Rubbish-Management-App Icon",
+  "glyphs": [
+    {
+      "icon_id": "1001122",
+      "name": "企业",
+      "font_class": "company",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "5924497",
+      "name": "钥匙",
+      "font_class": "password",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "11518443",
+      "name": "账号",
+      "font_class": "account",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "9122162",
+      "name": "设置",
+      "font_class": "setup",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "11121389",
+      "name": "注销",
+      "font_class": "logout",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "6264195",
+      "name": "列表",
+      "font_class": "tab__waybill",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "2078813",
+      "name": "dkw_填写",
+      "font_class": "tab__add-waybill",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1440640",
+      "name": "个人中心",
+      "font_class": "tab__personal-center",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}

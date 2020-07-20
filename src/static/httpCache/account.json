@@ -1,0 +1,38 @@
+{
+    "1": {
+        "userInfo": {
+            "id": "wid_bcc23853e7d9429e",
+            "name": "青岛建设集团有限公司",
+            "avatar": "http://carh5.youxoo.cn/static/image/avatar_f9c8dc3c-8e2c-4ca0-8615-f36df894e745.jpg"
+        },
+        "ownership": {
+            "id": "1_1",
+            "name": "中心广场扩建工程",
+            "address": "南区香港中路11号"
+        }
+    },
+    "2": {
+        "userInfo": {
+            "id": "wid_9cb7a23ff50243e1",
+            "name": "王强",
+            "avatar": "http://carh5.youxoo.cn/static/image/avatar_28f2215c-9711-47a5-b63a-373c2056bb4e.jpg"
+        },
+        "ownership": {
+            "id": "2_1",
+            "name": "青岛环卫集团",
+            "address": ""
+        }
+    },
+    "3": {
+        "userInfo": {
+            "id": "wid_8acaba75ab994863",
+            "name": "青岛东辉建筑垃圾渣土分类处理有限公司",
+            "avatar": "http://carh5.youxoo.cn/static/image/avatar_3c01c41a-9ba2-477b-9204-b1cafe468ce6.jpg"
+        },
+        "ownership": {
+            "id": "3_1",
+            "name": "青岛绿色能源",
+            "address": "汉河村九水东路626号"
+        }
+    }
+}

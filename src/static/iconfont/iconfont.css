@@ -1,0 +1,49 @@
+@font-face {font-family: "iconfont";
+  src: url('~@/static/iconfont/iconfont.eot?t=1594896467801'); /* IE9 */
+  src: url('~@/static/iconfont/iconfont.eot?t=1594896467801#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2'),
+  url('~@/static/iconfont/iconfont.woff?t=1594896467801') format('woff'),
+  url('~@/static/iconfont/iconfont.ttf?t=1594896467801') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('~@/static/iconfont/iconfont.svg?t=1594896467801#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.\@company:before {
+  content: "\e61a";
+}
+
+.\@password:before {
+  content: "\e62c";
+}
+
+.\@account:before {
+  content: "\e632";
+}
+
+.\@setup:before {
+  content: "\e659";
+}
+
+.\@logout:before {
+  content: "\e62a";
+}
+
+.\@tab__waybill:before {
+  content: "\e63a";
+}
+
+.\@tab__add-waybill:before {
+  content: "\e605";
+}
+
+.\@tab__personal-center:before {
+  content: "\e651";
+}
+
